@@ -1,0 +1,4 @@
+D:/Dcx/DcxC++/QtDemo/cmake-build-release/CMakeFiles/QtDemo.dir
+D:/Dcx/DcxC++/QtDemo/cmake-build-release/CMakeFiles/edit_cache.dir
+D:/Dcx/DcxC++/QtDemo/cmake-build-release/CMakeFiles/rebuild_cache.dir
+D:/Dcx/DcxC++/QtDemo/cmake-build-release/CMakeFiles/QtDemo_autogen.dir

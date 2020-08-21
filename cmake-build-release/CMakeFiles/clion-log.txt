@@ -1,0 +1,4 @@
+"D:\Dcx\DcxCLion\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -DCMAKE_SH=CMAKE_SH-NOTFOUND -G "CodeBlocks - MinGW Makefiles" D:\Dcx\DcxC++\QtDemo
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Dcx/DcxC++/QtDemo/cmake-build-release
